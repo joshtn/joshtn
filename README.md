@@ -1,9 +1,9 @@
 ### Hej! I'm Josh。 👋
 
-♦️  ``` test ``` <br />
-♠️  ``` test ``` <br />
-♥️  ``` test ``` <br />
-♣️  ``` test ``` <br />
+♦️  ``` I'm currently in my last year studying Computer Science at KTH. ``` <br />
+♠️  ``` Oxford Hack 2020 - ECHOAR sponsor challenge - Best AR app winner - https://devpost.com/software/fiberr ``` <br />
+♥️  ``` I enjoy learning new technologies. ``` <br />
+♣️  ``` Let's build! ``` <br />
 
 <!--
 **joshtn/joshtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
