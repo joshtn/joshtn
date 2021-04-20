@@ -1,9 +1,5 @@
 ### Hej! I'm Josh。 👋
 
-♦️  ``` I'm currently in my last year studying Computer Science at KTH. ``` <br />
-♠️  ``` Oxford Hack 2020 - ECHOAR sponsor challenge - Best AR app winner - https://devpost.com/software/fiberr ``` <br />
-♥️  ``` I enjoy learning new technologies. ``` <br />
-♣️  ``` Let's build! ``` <br />
 
 <!--
 **joshtn/joshtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ♦️  ``` I'm currently in my last year studying Computer Science at KTH. ``` <br />
+♠️  ``` Oxford Hack 2020 - ECHOAR sponsor challenge - Best AR app winner - https://devpost.com/software/fiberr ``` <br />
+♥️  ``` I enjoy learning new technologies. ``` <br />
+♣️  ``` Let's build! ``` <br />
 -->
